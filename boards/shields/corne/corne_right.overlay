@@ -1,8 +1,5 @@
-#include "corne.dtsi"
+#include "corne.overlay"
 &default_transform {
-    col-offset = <6>;
-};
-&five_column_transform {
     col-offset = <6>;
 };
 &kscan0{
